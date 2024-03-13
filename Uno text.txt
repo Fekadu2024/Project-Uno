@@ -1,0 +1,6 @@
+Create table Student(
+Id int,
+F_N VARCHAR (50),
+L_N VARCHAR (50),
+Age int
+);
